@@ -6,6 +6,7 @@ Requires Python 3.
 
 ```
 pip install keyboard
+pip install simpleaudio
 ```
 
 ## Usage
@@ -32,6 +33,8 @@ KeyboardInterrupt
 
 (env) macbook:stream-scribe danielsabsay$
 ```
+
+A sound will play each time an entry is written to the file.
 
 Contents of `stream_03_27_21.txt`:
 
